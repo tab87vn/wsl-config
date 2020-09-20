@@ -1,0 +1,11 @@
+set number
+syntax on
+colorscheme desert
+set syntax=whitespace
+set list
+set listchars=
+set listchars+=tab:░\ 
+set listchars+=trail:·
+set listchars+=extends:»
+set listchars+=precedes:«
+set listchars+=nbsp:⣿
